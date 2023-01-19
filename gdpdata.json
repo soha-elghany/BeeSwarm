@@ -1,0 +1,1034 @@
+[
+    {
+      "RecordID": 3,
+      "indicator": "Albania",
+      "GDP____USD_billions_PPP_": 40.8257025128053,
+      "population": 2900000
+    },
+    {
+      "RecordID": 4,
+      "indicator": "Algeria",
+      "GDP____USD_billions_PPP_": 488.871506301404,
+      "population": 41000000
+    },
+    {
+      "RecordID": 5,
+      "indicator": "Angola",
+      "GDP____USD_billions_PPP_": 203.276473600462,
+      "population": 30000000
+    },
+    {
+      "RecordID": 6,
+      "indicator": "Argentina",
+      "GDP____USD_billions_PPP_": 985.205026253526,
+      "population": 44000000
+    },
+    {
+      "RecordID": 7,
+      "indicator": "Armenia",
+      "GDP____USD_billions_PPP_": 39.52724803708,
+      "population": 3000000
+    },
+    {
+      "RecordID": 8,
+      "indicator": "Australia",
+      "GDP____USD_billions_PPP_": 1269.1644594415,
+      "population": 25000000
+    },
+    {
+      "RecordID": 9,
+      "indicator": "Austria",
+      "GDP____USD_billions_PPP_": 483.142221653777,
+      "population": 9000000
+    },
+    {
+      "RecordID": 10,
+      "indicator": "Azerbaijan",
+      "GDP____USD_billions_PPP_": 146.304571771411,
+      "population": 10000000
+    },
+    {
+      "RecordID": 11,
+      "indicator": "Bahamas",
+      "GDP____USD_billions_PPP_": 12.3229060406073,
+      "population": 400000
+    },
+    {
+      "RecordID": 12,
+      "indicator": "Bahrain",
+      "GDP____USD_billions_PPP_": 72.2668806940105,
+      "population": 1300000
+    },
+    {
+      "RecordID": 13,
+      "indicator": "Bangladesh",
+      "GDP____USD_billions_PPP_": 1001.06700065587,
+      "population": 165000000
+    },
+    {
+      "RecordID": 14,
+      "indicator": "Barbados",
+      "GDP____USD_billions_PPP_": 3.88034711069557,
+      "population": 300000
+    },
+    {
+      "RecordID": 15,
+      "indicator": "Belarus",
+      "GDP____USD_billions_PPP_": 184.482446353991,
+      "population": 10000000
+    },
+    {
+      "RecordID": 16,
+      "indicator": "Belgium",
+      "GDP____USD_billions_PPP_": 597.956586503616,
+      "population": 11000000
+    },
+    {
+      "RecordID": 17,
+      "indicator": "Belize",
+      "GDP____USD_billions_PPP_": 2.55107562592193,
+      "population": 400000
+    },
+    {
+      "RecordID": 18,
+      "indicator": "Benin",
+      "GDP____USD_billions_PPP_": 42.9460896839619,
+      "population": 11000000
+    },
+    {
+      "RecordID": 20,
+      "indicator": "Bolivia",
+      "GDP____USD_billions_PPP_": 97.2660519428977,
+      "population": 11000000
+    },
+    {
+      "RecordID": 21,
+      "indicator": "Bosnia and Herzegovina",
+      "GDP____USD_billions_PPP_": 51.0239418066465,
+      "population": 3900000
+    },
+    {
+      "RecordID": 22,
+      "indicator": "Botswana",
+      "GDP____USD_billions_PPP_": 38.4130252399462,
+      "population": 2200000
+    },
+    {
+      "RecordID": 23,
+      "indicator": "Brazil",
+      "GDP____USD_billions_PPP_": 3127.52389454201,
+      "population": 209000000
+    },
+    {
+      "RecordID": 24,
+      "indicator": "Brunei",
+      "GDP____USD_billions_PPP_": 26.7749302869881,
+      "population": 400000
+    },
+    {
+      "RecordID": 25,
+      "indicator": "Bulgaria",
+      "GDP____USD_billions_PPP_": 161.660073527317,
+      "population": 7000000
+    },
+    {
+      "RecordID": 26,
+      "indicator": "Burkina Faso",
+      "GDP____USD_billions_PPP_": 48.1748265504405,
+      "population": 19000000
+    },
+    {
+      "RecordID": 27,
+      "indicator": "Burundi",
+      "GDP____USD_billions_PPP_": 8.84898683947982,
+      "population": 11000000
+    },
+    {
+      "RecordID": 28,
+      "indicator": "Cabo Verde",
+      "GDP____USD_billions_PPP_": 3.59465181252154,
+      "population": 500000
+    },
+    {
+      "RecordID": 29,
+      "indicator": "Cambodia",
+      "GDP____USD_billions_PPP_": 72.2379823620124,
+      "population": 16000000
+    },
+    {
+      "RecordID": 30,
+      "indicator": "Cameroon",
+      "GDP____USD_billions_PPP_": 100.721476466541,
+      "population": 24000000
+    },
+    {
+      "RecordID": 31,
+      "indicator": "Canada",
+      "GDP____USD_billions_PPP_": 1832.10441724387,
+      "population": 37000000
+    },
+    {
+      "RecordID": 32,
+      "indicator": "Central African Republic",
+      "GDP____USD_billions_PPP_": 4.57039204572498,
+      "population": 4900000
+    },
+    {
+      "RecordID": 33,
+      "indicator": "Chad",
+      "GDP____USD_billions_PPP_": 24.4896250953861,
+      "population": 15000000
+    },
+    {
+      "RecordID": 34,
+      "indicator": "Chile",
+      "GDP____USD_billions_PPP_": 496.084586446688,
+      "population": 18000000
+    },
+    {
+      "RecordID": 35,
+      "indicator": "China",
+      "GDP____USD_billions_PPP_": 24861.3438043233,
+      "population": 1386000000
+    },
+    {
+      "RecordID": 36,
+      "indicator": "Colombia",
+      "GDP____USD_billions_PPP_": 753.869711331563,
+      "population": 49000000
+    },
+    {
+      "RecordID": 37,
+      "indicator": "Comoros",
+      "GDP____USD_billions_PPP_": 2.65616189833073,
+      "population": 800000
+    },
+    {
+      "RecordID": 38,
+      "indicator": "Congo (Dem. Rep.)",
+      "GDP____USD_billions_PPP_": 102.48302953562,
+      "population": 81000000
+    },
+    {
+      "RecordID": 39,
+      "indicator": "Congo (Rep.)",
+      "GDP____USD_billions_PPP_": 18.6243918716666,
+      "population": 4500000
+    },
+    {
+      "RecordID": 40,
+      "indicator": "Costa Rica",
+      "GDP____USD_billions_PPP_": 109.260184456532,
+      "population": 4900000
+    },
+    {
+      "RecordID": 41,
+      "indicator": "Cote d'Ivoire",
+      "GDP____USD_billions_PPP_": 146.270621620477,
+      "population": 24000000
+    },
+    {
+      "RecordID": 42,
+      "indicator": "Croatia",
+      "GDP____USD_billions_PPP_": 121.050800909844,
+      "population": 4200000
+    },
+    {
+      "RecordID": 43,
+      "indicator": "Cuba",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 11000000
+    },
+    {
+      "RecordID": 44,
+      "indicator": "Cyprus",
+      "GDP____USD_billions_PPP_": 36.7132215084883,
+      "population": 800000
+    },
+    {
+      "RecordID": 45,
+      "indicator": "Czech Republic",
+      "GDP____USD_billions_PPP_": 425.759419161977,
+      "population": 11000000
+    },
+    {
+      "RecordID": 46,
+      "indicator": "Denmark",
+      "GDP____USD_billions_PPP_": 340.785964473168,
+      "population": 6000000
+    },
+    {
+      "RecordID": 47,
+      "indicator": "Djibouti",
+      "GDP____USD_billions_PPP_": 5.40582671900056,
+      "population": 1000000
+    },
+    {
+      "RecordID": 48,
+      "indicator": "Dominican Republic",
+      "GDP____USD_billions_PPP_": 207.082377269756,
+      "population": 11000000
+    },
+    {
+      "RecordID": 49,
+      "indicator": "Ecuador",
+      "GDP____USD_billions_PPP_": 189.879754187301,
+      "population": 17000000
+    },
+    {
+      "RecordID": 50,
+      "indicator": "Egypt",
+      "GDP____USD_billions_PPP_": 1263.7317754351,
+      "population": 98000000
+    },
+    {
+      "RecordID": 51,
+      "indicator": "El Salvador",
+      "GDP____USD_billions_PPP_": 57.3692743351951,
+      "population": 6000000
+    },
+    {
+      "RecordID": 52,
+      "indicator": "Equatorial Guinea",
+      "GDP____USD_billions_PPP_": 23.9236882153307,
+      "population": 800000
+    },
+    {
+      "RecordID": 53,
+      "indicator": "Eritrea",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 5000000
+    },
+    {
+      "RecordID": 54,
+      "indicator": "Estonia",
+      "GDP____USD_billions_PPP_": 50.7873507249293,
+      "population": 1300000
+    },
+    {
+      "RecordID": 55,
+      "indicator": "Eswatini",
+      "GDP____USD_billions_PPP_": 10.4749738312897,
+      "population": 1100000
+    },
+    {
+      "RecordID": 56,
+      "indicator": "Ethiopia",
+      "GDP____USD_billions_PPP_": 278.944546855109,
+      "population": 105000000
+    },
+    {
+      "RecordID": 57,
+      "indicator": "Fiji",
+      "GDP____USD_billions_PPP_": 9.91153126897342,
+      "population": 900000
+    },
+    {
+      "RecordID": 58,
+      "indicator": "Finland",
+      "GDP____USD_billions_PPP_": 271.192366750762,
+      "population": 6000000
+    },
+    {
+      "RecordID": 59,
+      "indicator": "France",
+      "GDP____USD_billions_PPP_": 3050.12293638078,
+      "population": 67000000
+    },
+    {
+      "RecordID": 60,
+      "indicator": "Gabon",
+      "GDP____USD_billions_PPP_": 32.3541277576297,
+      "population": 1900000
+    },
+    {
+      "RecordID": 61,
+      "indicator": "Gambia, The",
+      "GDP____USD_billions_PPP_": 5.50972097076422,
+      "population": 2100000
+    },
+    {
+      "RecordID": 62,
+      "indicator": "Georgia",
+      "GDP____USD_billions_PPP_": 57.378557016937,
+      "population": 3700000
+    },
+    {
+      "RecordID": 63,
+      "indicator": "Germany",
+      "GDP____USD_billions_PPP_": 4400.10029572515,
+      "population": 83000000
+    },
+    {
+      "RecordID": 64,
+      "indicator": "Ghana",
+      "GDP____USD_billions_PPP_": 178.455327397315,
+      "population": 29000000
+    },
+    {
+      "RecordID": 65,
+      "indicator": "Greece",
+      "GDP____USD_billions_PPP_": 313.841098504605,
+      "population": 11000000
+    },
+    {
+      "RecordID": 66,
+      "indicator": "Guatemala",
+      "GDP____USD_billions_PPP_": 152.148137270763,
+      "population": 17000000
+    },
+    {
+      "RecordID": 67,
+      "indicator": "Guinea",
+      "GDP____USD_billions_PPP_": 35.3661287566425,
+      "population": 13000000
+    },
+    {
+      "RecordID": 68,
+      "indicator": "Guinea-Bissau",
+      "GDP____USD_billions_PPP_": 3.77396987851392,
+      "population": 1700000
+    },
+    {
+      "RecordID": 69,
+      "indicator": "Guyana",
+      "GDP____USD_billions_PPP_": 17.620772294102,
+      "population": 800000
+    },
+    {
+      "RecordID": 70,
+      "indicator": "Haiti",
+      "GDP____USD_billions_PPP_": 32.8561833459755,
+      "population": 11000000
+    },
+    {
+      "RecordID": 71,
+      "indicator": "Honduras",
+      "GDP____USD_billions_PPP_": 57.2727574839932,
+      "population": 9000000
+    },
+    {
+      "RecordID": 72,
+      "indicator": "Hungary",
+      "GDP____USD_billions_PPP_": 325.455707553918,
+      "population": 10000000
+    },
+    {
+      "RecordID": 73,
+      "indicator": "Iceland",
+      "GDP____USD_billions_PPP_": 19.9038781076133,
+      "population": 300000
+    },
+    {
+      "RecordID": 74,
+      "indicator": "India",
+      "GDP____USD_billions_PPP_": 9301.49222668383,
+      "population": 1339000000
+    },
+    {
+      "RecordID": 75,
+      "indicator": "Indonesia",
+      "GDP____USD_billions_PPP_": 3246.20544690656,
+      "population": 264000000
+    },
+    {
+      "RecordID": 76,
+      "indicator": "Iran",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 81000000
+    },
+    {
+      "RecordID": 77,
+      "indicator": "Iraq",
+      "GDP____USD_billions_PPP_": 390.165209954504,
+      "population": 38000000
+    },
+    {
+      "RecordID": 78,
+      "indicator": "Ireland",
+      "GDP____USD_billions_PPP_": 513.655992113861,
+      "population": 4700000
+    },
+    {
+      "RecordID": 79,
+      "indicator": "Israel",
+      "GDP____USD_billions_PPP_": 389.378280736651,
+      "population": 9000000
+    },
+    {
+      "RecordID": 80,
+      "indicator": "Italy",
+      "GDP____USD_billions_PPP_": 2477.0727494504,
+      "population": 61000000
+    },
+    {
+      "RecordID": 81,
+      "indicator": "Jamaica",
+      "GDP____USD_billions_PPP_": 27.136157183293,
+      "population": 2800000
+    },
+    {
+      "RecordID": 82,
+      "indicator": "Japan",
+      "GDP____USD_billions_PPP_": 5124.01694969776,
+      "population": 127000000
+    },
+    {
+      "RecordID": 83,
+      "indicator": "Jordan",
+      "GDP____USD_billions_PPP_": 102.372973365972,
+      "population": 10000000
+    },
+    {
+      "RecordID": 84,
+      "indicator": "Kazakhstan",
+      "GDP____USD_billions_PPP_": 494.698852061374,
+      "population": 18000000
+    },
+    {
+      "RecordID": 85,
+      "indicator": "Kenya",
+      "GDP____USD_billions_PPP_": 251.431410850289,
+      "population": 50000000
+    },
+    {
+      "RecordID": 86,
+      "indicator": "Korea (Dem. People's Rep.)",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 25000000
+    },
+    {
+      "RecordID": 87,
+      "indicator": "Korea (Rep.)",
+      "GDP____USD_billions_PPP_": 2282.7776448141,
+      "population": 51000000
+    },
+    {
+      "RecordID": 88,
+      "indicator": "Kosovo",
+      "GDP____USD_billions_PPP_": 20.9154831780565,
+      "population": 1900000
+    },
+    {
+      "RecordID": 89,
+      "indicator": "Kuwait",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 4200000
+    },
+    {
+      "RecordID": 90,
+      "indicator": "Kyrgyzstan",
+      "GDP____USD_billions_PPP_": 32.2207254897256,
+      "population": 6000000
+    },
+    {
+      "RecordID": 91,
+      "indicator": "Laos",
+      "GDP____USD_billions_PPP_": 58.2642368180844,
+      "population": 7000000
+    },
+    {
+      "RecordID": 92,
+      "indicator": "Latvia",
+      "GDP____USD_billions_PPP_": 59.6746291548087,
+      "population": 2000000
+    },
+    {
+      "RecordID": 93,
+      "indicator": "Lebanon",
+      "GDP____USD_billions_PPP_": 65.8754591680829,
+      "population": 4600000
+    },
+    {
+      "RecordID": 94,
+      "indicator": "Lesotho",
+      "GDP____USD_billions_PPP_": 5.27139314526087,
+      "population": 1900000
+    },
+    {
+      "RecordID": 95,
+      "indicator": "Liberia",
+      "GDP____USD_billions_PPP_": 7.32195600151742,
+      "population": 4400000
+    },
+    {
+      "RecordID": 96,
+      "indicator": "Libya",
+      "GDP____USD_billions_PPP_": 147.941526581644,
+      "population": 6000000
+    },
+    {
+      "RecordID": 97,
+      "indicator": "Lithuania",
+      "GDP____USD_billions_PPP_": 108.899084442624,
+      "population": 2900000
+    },
+    {
+      "RecordID": 98,
+      "indicator": "Luxembourg",
+      "GDP____USD_billions_PPP_": 75.8448555457806,
+      "population": 600000
+    },
+    {
+      "RecordID": 99,
+      "indicator": "Macedonia",
+      "GDP____USD_billions_PPP_": 34.0003687521194,
+      "population": 2100000
+    },
+    {
+      "RecordID": 100,
+      "indicator": "Madagascar",
+      "GDP____USD_billions_PPP_": 42.3182081855595,
+      "population": 26000000
+    },
+    {
+      "RecordID": 101,
+      "indicator": "Malawi",
+      "GDP____USD_billions_PPP_": 29.6582683181235,
+      "population": 19000000
+    },
+    {
+      "RecordID": 102,
+      "indicator": "Malaysia",
+      "GDP____USD_billions_PPP_": 883.621610681669,
+      "population": 32000000
+    },
+    {
+      "RecordID": 103,
+      "indicator": "Maldives",
+      "GDP____USD_billions_PPP_": 9.02189867144851,
+      "population": 400000
+    },
+    {
+      "RecordID": 104,
+      "indicator": "Mali",
+      "GDP____USD_billions_PPP_": 46.4599959295358,
+      "population": 19000000
+    },
+    {
+      "RecordID": 105,
+      "indicator": "Malta",
+      "GDP____USD_billions_PPP_": 22.9465700603651,
+      "population": 400000
+    },
+    {
+      "RecordID": 106,
+      "indicator": "Mauritania",
+      "GDP____USD_billions_PPP_": 24.3052496109973,
+      "population": 3800000
+    },
+    {
+      "RecordID": 107,
+      "indicator": "Mauritius",
+      "GDP____USD_billions_PPP_": 25.6303232388927,
+      "population": 1300000
+    },
+    {
+      "RecordID": 108,
+      "indicator": "Mexico",
+      "GDP____USD_billions_PPP_": 2415.67536200378,
+      "population": 129000000
+    },
+    {
+      "RecordID": 109,
+      "indicator": "Moldova",
+      "GDP____USD_billions_PPP_": 36.6369138780434,
+      "population": 3600000
+    },
+    {
+      "RecordID": 110,
+      "indicator": "Mongolia",
+      "GDP____USD_billions_PPP_": 38.9804353321097,
+      "population": 3000000
+    },
+    {
+      "RecordID": 111,
+      "indicator": "Montenegro",
+      "GDP____USD_billions_PPP_": 12.7549976632286,
+      "population": 600000
+    },
+    {
+      "RecordID": 112,
+      "indicator": "Morocco",
+      "GDP____USD_billions_PPP_": 281.360291456914,
+      "population": 36000000
+    },
+    {
+      "RecordID": 113,
+      "indicator": "Mozambique",
+      "GDP____USD_billions_PPP_": 39.2975911056353,
+      "population": 30000000
+    },
+    {
+      "RecordID": 114,
+      "indicator": "Myanmar",
+      "GDP____USD_billions_PPP_": 216.757780196414,
+      "population": 53000000
+    },
+    {
+      "RecordID": 115,
+      "indicator": "Namibia",
+      "GDP____USD_billions_PPP_": 23.092566623338,
+      "population": 2300000
+    },
+    {
+      "RecordID": 116,
+      "indicator": "Nepal",
+      "GDP____USD_billions_PPP_": 115.092527901448,
+      "population": 29000000
+    },
+    {
+      "RecordID": 117,
+      "indicator": "Netherlands",
+      "GDP____USD_billions_PPP_": 995.213859493505,
+      "population": 17000000
+    },
+    {
+      "RecordID": 118,
+      "indicator": "New Zealand",
+      "GDP____USD_billions_PPP_": 221.815913485022,
+      "population": 4700000
+    },
+    {
+      "RecordID": 119,
+      "indicator": "Nicaragua",
+      "GDP____USD_billions_PPP_": 38.6286742021709,
+      "population": 6000000
+    },
+    {
+      "RecordID": 120,
+      "indicator": "Niger",
+      "GDP____USD_billions_PPP_": 29.9625421030285,
+      "population": 21000000
+    },
+    {
+      "RecordID": 121,
+      "indicator": "Nigeria",
+      "GDP____USD_billions_PPP_": 1050.49627796064,
+      "population": 191000000
+    },
+    {
+      "RecordID": 122,
+      "indicator": "Norway",
+      "GDP____USD_billions_PPP_": 355.264704200519,
+      "population": 5000000
+    },
+    {
+      "RecordID": 123,
+      "indicator": "Oman",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 4000000
+    },
+    {
+      "RecordID": 124,
+      "indicator": "Pakistan",
+      "GDP____USD_billions_PPP_": 1204.85226799842,
+      "population": 197000000
+    },
+    {
+      "RecordID": 125,
+      "indicator": "Panama",
+      "GDP____USD_billions_PPP_": 126.351715567665,
+      "population": 4000000
+    },
+    {
+      "RecordID": 126,
+      "indicator": "Papua New Guinea",
+      "GDP____USD_billions_PPP_": 36.8992241143008,
+      "population": 8000000
+    },
+    {
+      "RecordID": 127,
+      "indicator": "Paraguay",
+      "GDP____USD_billions_PPP_": 91.8452004380352,
+      "population": 7000000
+    },
+    {
+      "RecordID": 128,
+      "indicator": "Peru",
+      "GDP____USD_billions_PPP_": 421.937366718374,
+      "population": 32000000
+    },
+    {
+      "RecordID": 129,
+      "indicator": "Philippines",
+      "GDP____USD_billions_PPP_": 921.826293241613,
+      "population": 105000000
+    },
+    {
+      "RecordID": 130,
+      "indicator": "Poland",
+      "GDP____USD_billions_PPP_": 1298.27004801311,
+      "population": 38000000
+    },
+    {
+      "RecordID": 131,
+      "indicator": "Portugal",
+      "GDP____USD_billions_PPP_": 345.177685247694,
+      "population": 10000000
+    },
+    {
+      "RecordID": 132,
+      "indicator": "Qatar",
+      "GDP____USD_billions_PPP_": 249.470302290298,
+      "population": 2600000
+    },
+    {
+      "RecordID": 133,
+      "indicator": "Romania",
+      "GDP____USD_billions_PPP_": 589.791004835868,
+      "population": 20000000
+    },
+    {
+      "RecordID": 134,
+      "indicator": "Russia",
+      "GDP____USD_billions_PPP_": 4080.29490482469,
+      "population": 144000000
+    },
+    {
+      "RecordID": 135,
+      "indicator": "Rwanda",
+      "GDP____USD_billions_PPP_": 30.1405927175218,
+      "population": 12000000
+    },
+    {
+      "RecordID": 136,
+      "indicator": "Saudi Arabia",
+      "GDP____USD_billions_PPP_": 1594.01584727823,
+      "population": 33000000
+    },
+    {
+      "RecordID": 137,
+      "indicator": "Senegal",
+      "GDP____USD_billions_PPP_": 58.9909478435735,
+      "population": 16000000
+    },
+    {
+      "RecordID": 138,
+      "indicator": "Serbia",
+      "GDP____USD_billions_PPP_": 135.250256377063,
+      "population": 7000000
+    },
+    {
+      "RecordID": 139,
+      "indicator": "Sierra Leone",
+      "GDP____USD_billions_PPP_": 13.4590681361049,
+      "population": 8000000
+    },
+    {
+      "RecordID": 140,
+      "indicator": "Singapore",
+      "GDP____USD_billions_PPP_": 578.253735823577,
+      "population": 6000000
+    },
+    {
+      "RecordID": 141,
+      "indicator": "Slovakia",
+      "GDP____USD_billions_PPP_": 171.57807432514,
+      "population": 5000000
+    },
+    {
+      "RecordID": 142,
+      "indicator": "Slovenia",
+      "GDP____USD_billions_PPP_": 84.2166732588062,
+      "population": 2100000
+    },
+    {
+      "RecordID": 143,
+      "indicator": "Solomon Islands",
+      "GDP____USD_billions_PPP_": 832.059437093777,
+      "population": 600000
+    },
+    {
+      "RecordID": 144,
+      "indicator": "Somalia",
+      "GDP____USD_billions_PPP_": 1.70206629729398,
+      "population": 15000000
+    },
+    {
+      "RecordID": 145,
+      "indicator": "South Africa",
+      "GDP____USD_billions_PPP_": 19.395201831577,
+      "population": 57000000
+    },
+    {
+      "RecordID": 146,
+      "indicator": "South Sudan",
+      "GDP____USD_billions_PPP_": 788.11212441526,
+      "population": 13000000
+    },
+    {
+      "RecordID": 147,
+      "indicator": "Spain",
+      "GDP____USD_billions_PPP_": 1803.04463109936,
+      "population": 47000000
+    },
+    {
+      "RecordID": 148,
+      "indicator": "Sri Lanka",
+      "GDP____USD_billions_PPP_": 284.911627786774,
+      "population": 21000000
+    },
+    {
+      "RecordID": 149,
+      "indicator": "Sudan",
+      "GDP____USD_billions_PPP_": 172.395320232776,
+      "population": 41000000
+    },
+    {
+      "RecordID": 150,
+      "indicator": "Suriname",
+      "GDP____USD_billions_PPP_": 8.98293669412047,
+      "population": 600000
+    },
+    {
+      "RecordID": 151,
+      "indicator": "Sweden",
+      "GDP____USD_billions_PPP_": 552.562174658759,
+      "population": 10000000
+    },
+    {
+      "RecordID": 152,
+      "indicator": "Switzerland",
+      "GDP____USD_billions_PPP_": 615.734916971656,
+      "population": 8000000
+    },
+    {
+      "RecordID": 153,
+      "indicator": "Syria",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 18000000
+    },
+    {
+      "RecordID": 154,
+      "indicator": "Taiwan",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 24000000
+    },
+    {
+      "RecordID": 155,
+      "indicator": "Tajikistan",
+      "GDP____USD_billions_PPP_": 38.0576198830909,
+      "population": 9000000
+    },
+    {
+      "RecordID": 156,
+      "indicator": "Tanzania",
+      "GDP____USD_billions_PPP_": 159.326111433887,
+      "population": 57000000
+    },
+    {
+      "RecordID": 157,
+      "indicator": "Thailand",
+      "GDP____USD_billions_PPP_": 1223.12607870038,
+      "population": 69000000
+    },
+    {
+      "RecordID": 158,
+      "indicator": "Timor-Leste",
+      "GDP____USD_billions_PPP_": 5.40388480007996,
+      "population": 1200000
+    },
+    {
+      "RecordID": 159,
+      "indicator": "Togo",
+      "GDP____USD_billions_PPP_": 18.3685691994526,
+      "population": 8000000
+    },
+    {
+      "RecordID": 160,
+      "indicator": "Trinidad and Tobago",
+      "GDP____USD_billions_PPP_": 34.3220043275064,
+      "population": 1400000
+    },
+    {
+      "RecordID": 161,
+      "indicator": "Tunisia",
+      "GDP____USD_billions_PPP_": 125.971671205201,
+      "population": 12000000
+    },
+    {
+      "RecordID": 162,
+      "indicator": "Turkiye",
+      "GDP____USD_billions_PPP_": 2657.76212881771,
+      "population": 81000000
+    },
+    {
+      "RecordID": 163,
+      "indicator": "Turkmenistan",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 6000000
+    },
+    {
+      "RecordID": 164,
+      "indicator": "Uganda",
+      "GDP____USD_billions_PPP_": 102.850430427584,
+      "population": 43000000
+    },
+    {
+      "RecordID": 165,
+      "indicator": "Ukraine",
+      "GDP____USD_billions_PPP_": 535.578870143443,
+      "population": 45000000
+    },
+    {
+      "RecordID": 166,
+      "indicator": "United Arab Emirates",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 9000000
+    },
+    {
+      "RecordID": 167,
+      "indicator": "United Kingdom",
+      "GDP____USD_billions_PPP_": 3086.19292603727,
+      "population": 66000000
+    },
+    {
+      "RecordID": 168,
+      "indicator": "United States",
+      "GDP____USD_billions_PPP_": 20932.281461072,
+      "population": 326000000
+    },
+    {
+      "RecordID": 169,
+      "indicator": "Uruguay",
+      "GDP____USD_billions_PPP_": 78.1210910986326,
+      "population": 3500000
+    },
+    {
+      "RecordID": 170,
+      "indicator": "Uzbekistan",
+      "GDP____USD_billions_PPP_": 270.062447215255,
+      "population": 32000000
+    },
+    {
+      "RecordID": 171,
+      "indicator": "Venezuela",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 32000000
+    },
+    {
+      "RecordID": 172,
+      "indicator": "Vietnam",
+      "GDP____USD_billions_PPP_": 1032.36527891124,
+      "population": 96000000
+    },
+    {
+      "RecordID": 173,
+      "indicator": "Yemen",
+      "GDP____USD_billions_PPP_": 0,
+      "population": 28000000
+    },
+    {
+      "RecordID": 174,
+      "indicator": "Zambia",
+      "GDP____USD_billions_PPP_": 62.4121856475744,
+      "population": 17000000
+    },
+    {
+      "RecordID": 175,
+      "indicator": "Zimbabwe",
+      "GDP____USD_billions_PPP_": 33.5815138106814,
+      "population": 17000000
+    }
+  ]
